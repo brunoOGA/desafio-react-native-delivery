@@ -1,4 +1,4 @@
-<h1 align="center">Desafio 11: GoRestaurant Mobile</h1>
+<h1 align="center">Desafio: GoRestaurant Mobile</h1>
 
 ## Sobre 
 A aplicação usa uma fake API, e exibe e filtra os pratos de comida da API e permite a criação de novos pedidos.
